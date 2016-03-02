@@ -30,7 +30,7 @@ public class Flute implements IInstrument{
     @Override
     public String play() {
                
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        return("trilili");
     }
 
     @Override
