@@ -1,7 +1,6 @@
 package ch.heigvd.res.lab00;
 
 import ch.heigvd.res.lab00.IInstrument;
-import ch.heigvd.res.lab00.Orchestra;
 import java.util.List;
 import org.junit.Test;
 import static org.junit.Assert.*;
